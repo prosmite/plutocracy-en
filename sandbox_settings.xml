@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sandbox_settings>
+    <text id="btn_start_game" need_translate="false" value="Start game"/>
+    <win_settings>
+        <text id="economy" need_translate="false" value="You have to answer the question: is greed good? Your goal is to become the first dollar billionaire in history. You have 10 years before the 1880s. Choose the wealth level you would like to reach."/>
+        <text id="monopoly" need_translate="false" value="Capture 80% of the market share in the selected industry: oil, banking, logistics and other. Build the most powerful financial imperia and squeeze out all the competitors!"/>
+        <text id="politial_influence" need_translate="false" value="You need to reach the total international political influence to win! You can lobby politicians and laws as well as corrupting officials. Make your choice how to achieve the goal!"/>
+        <text id="superiority" need_translate="false" value="Take your place among the richest capitalists and businessmen in history! You'll be struggling the competitors of the richest international clans and families. Are you able to challenge them?"/>
+    </win_settings>
+    <world_settings>
+        <game_difficult>
+            <text id="financial_genius" need_translate="false" value="Hardcore economy with dynamic financial indicators. Quarterly ups and downs of the market as well as constantly changing prices. That's a pretty tough competition world!"/>
+            <text id="newbie" need_translate="false" value="You only start learning the finance basics. Your competitors are friendly and compliant."/>
+            <text id="plutocrat" need_translate="false" value="In order to achieve power and greatness, you need to make superhuman efforts! Are you ready to feel the consequences of decisions affecting human destiny?"/>
+            <text id="shark_of_capitalism" need_translate="false" value="You know how to make a business! In order to win your opponents, you should be able to find the most cunning ways to achieve the goal. Be ready to rack your brain!"/>
+        </game_difficult>
+        <start_condition>
+            <text id="company_owner" need_translate="false" value="You have a 100% the company's stake and a small staff component of 10 people. Cash in hand $1,000,000"/>
+            <text id="experienced_investor" need_translate="false" value="You have a the company's stake of $1,000,000. Cash in hand $100,000"/>
+            <text id="low_start" need_translate="false" value="You have a savings account in the amount of $100,000. How to start? It's up to you! "/>
+        </start_condition>
+        <start_time>
+            <text id="gilded_epoch" need_translate="false" value="America after the Civil War and the Abolition of Slavery, the rise of monopolies and the formation of the largest private equity!. There are oil, banking, logistics and other industries. You have unlimited opportunities! "/>
+        </start_time>
+        <world_size>
+            <text id="big" need_translate="false" value="A large number of companies and characters. The average playtime is 3-5 hours."/>
+            <text id="large" need_translate="false" value="A few tens of thousands of characters and a huge number of companies. The average playtime is more than 10 hours."/>
+            <text id="medium" need_translate="false" value="Increased number of characters and companies. The average playtime is 2 hours."/>
+            <text id="small" need_translate="false" value="Quick match. There are a few characters and companies. "/>
+        </world_size>
+    </world_settings>
+</sandbox_settings>

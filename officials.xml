@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officials>
+    <descriptions>
+        <text id="governor" need_translate="false" value="Governor"/>
+        <text id="judge" need_translate="false" value="Judge"/>
+        <text id="police_chief" need_translate="false" value="Police chief "/>
+        <text id="prosecutor" need_translate="false" value="Prosecutor"/>
+        <text id="treasurer" need_translate="false" value="Treasurer"/>
+    </descriptions>
+    <type_names>
+        <text id="governor" need_translate="false" value="Governor"/>
+        <text id="governor_in_genetive" need_translate="false" value="governor"/>
+        <text id="judge" need_translate="false" value="Judge"/>
+        <text id="judge_in_genetive" need_translate="false" value="judge"/>
+        <text id="police_chief" need_translate="false" value="Police chief"/>
+        <text id="police_chief_in_genetive" need_translate="false" value="police chief"/>
+        <text id="prosecutor" need_translate="false" value="Prosecutor"/>
+        <text id="prosecutor_in_genetive" need_translate="false" value="prosecutor"/>
+        <text id="treasurer" need_translate="false" value="Treasurer"/>
+        <text id="treasurer_in_genetive" need_translate="false" value="treasurer"/>
+    </type_names>
+</officials>

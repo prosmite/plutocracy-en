@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<player_achievements_description>
+    <descriptions>
+        <text id="artificial_manipulator" need_translate="false" value="Hire %1 assistants"/>
+        <text id="bloody_prince" need_translate="false" value="Make %1 successful attempts on characters' life"/>
+        <text id="collector" need_translate="false" value="Get %1 collectibles"/>
+        <text id="combinator" need_translate="false" value="Create %1 vertical intergrations"/>
+        <text id="corrupting_power" need_translate="false" value="Make %1 corrupt deals"/>
+        <text id="country_figure" need_translate="false" value="Reach %1% of influence in the USA"/>
+        <text id="diplomat_of_devil" need_translate="false" value="Conduct %1 successful negotiations"/>
+        <text id="great_raider" need_translate="false" value="Take control of %1 companies. No matter a company type"/>
+        <text id="individual" need_translate="false" value="Buy %1% of a company's shares"/>
+        <text id="local_lobbyist" need_translate="false" value="Lobby %1 local laws"/>
+        <text id="local_monopolist" need_translate="false" value="Capture %1% market share in any state "/>
+        <text id="master_of_secrets" need_translate="false" value="Get %1 compromising evidence"/>
+        <text id="plutocrat" need_translate="false" value="Make $%1"/>
+        <text id="political_heavyweight" need_translate="false" value="Lobby %1 federal laws"/>
+        <text id="regional_figure" need_translate="false" value="Reach %1% of influence in any state"/>
+        <text id="shadow_ruler" need_translate="false" value="Your puppet is the USA ruler"/>
+        <text id="themis_master" need_translate="false" value="Cancel %1 judgments"/>
+        <text id="us_monopolist" need_translate="false" value="Capture %1% market share of the USA"/>
+        <text id="walk_in_all_doors" need_translate="false" value="Make all the officials your puppets in any state"/>
+        <text id="world_monopolist" need_translate="false" value="Capture %1% market share in the world"/>
+    </descriptions>
+    <descriptions_complete>
+        <text id="artificial_manipulator" need_translate="false" value="You have hired %1 assistants"/>
+        <text id="bloody_prince" need_translate="false" value="You have made %1 successful attempts on the characters' life"/>
+        <text id="collector" need_translate="false" value="You have got %1 collectibles"/>
+        <text id="combinator" need_translate="false" value="You have created %1 vertical intergrations"/>
+        <text id="corrupting_power" need_translate="false" value="You have made %1 corrupt deals"/>
+        <text id="country_figure" need_translate="false" value="You have reached %1% of influence in the USA"/>
+        <text id="diplomat_of_devil" need_translate="false" value="You have conducted %1 successful negotiations"/>
+        <text id="great_raider" need_translate="false" value="You have taken control of %1 companies"/>
+        <text id="individual" need_translate="false" value="You have bought %1% of the company's shares."/>
+        <text id="local_lobbyist" need_translate="false" value="You have lobbied %1 local laws"/>
+        <text id="local_monopolist" need_translate="false" value="You have captured %1% market share in the state"/>
+        <text id="master_of_secrets" need_translate="false" value="You have got %1 compromising evidence"/>
+        <text id="plutocrat" need_translate="false" value="You have made $%1."/>
+        <text id="political_heavyweight" need_translate="false" value="You have lobbied %1 federal laws"/>
+        <text id="regional_figure" need_translate="false" value="You have reached %1% of influence in the state"/>
+        <text id="shadow_ruler" need_translate="false" value="Now you have your own the USA ruler!"/>
+        <text id="themis_master" need_translate="false" value="You have canceled %1 judgments"/>
+        <text id="us_monopolist" need_translate="false" value="You have captured %1% market share in the USA"/>
+        <text id="walk_in_all_doors" need_translate="false" value="All the officials in the state are your puppets"/>
+        <text id="world_monopolist" need_translate="false" value="You have captured %1% market share in the world"/>
+    </descriptions_complete>
+    <names>
+        <text id="artificial_manipulator" need_translate="false" value="Skilled manipulator"/>
+        <text id="bloody_prince" need_translate="false" value="Bloody prince"/>
+        <text id="collector" need_translate="false" value="Collector"/>
+        <text id="combinator" need_translate="false" value="Wheel dealer"/>
+        <text id="corrupting_power" need_translate="false" value="Corrupting authority"/>
+        <text id="country_figure" need_translate="false" value="Powerful USA figure"/>
+        <text id="diplomat_of_devil" need_translate="false" value="Devil diplomat"/>
+        <text id="great_raider" need_translate="false" value="Great raider"/>
+        <text id="individual" need_translate="false" value="Exclusive owner"/>
+        <text id="local_lobbyist" need_translate="false" value="Local lobbyist"/>
+        <text id="local_monopolist" need_translate="false" value="Local monopolist"/>
+        <text id="master_of_secrets" need_translate="false" value="Secrets master"/>
+        <text id="plutocrat" need_translate="false" value="Plutocrat"/>
+        <text id="political_heavyweight" need_translate="false" value="Political heavyweight"/>
+        <text id="regional_figure" need_translate="false" value="Regional figure"/>
+        <text id="shadow_ruler" need_translate="false" value="Shadow ruler"/>
+        <text id="themis_master" need_translate="false" value="Themis master"/>
+        <text id="us_monopolist" need_translate="false" value="USA monopolist"/>
+        <text id="walk_in_all_doors" need_translate="false" value="Influential person"/>
+        <text id="world_monopolist" need_translate="false" value="Global monopolist"/>
+    </names>
+    <progress_text>
+        <text id="artificial_manipulator" need_translate="false" value="Hired assistants:"/>
+        <text id="bloody_prince" need_translate="false" value="Assassination attempts:"/>
+        <text id="collector" need_translate="false" value="Got collectibles:"/>
+        <text id="combinator" need_translate="false" value="Vertical intergrations:"/>
+        <text id="corrupting_power" need_translate="false" value="Corruption deals:"/>
+        <text id="country_figure" need_translate="false" value="Influence level in the USA:"/>
+        <text id="diplomat_of_devil" need_translate="false" value="Conducted negotiations:"/>
+        <text id="great_raider" need_translate="false" value="Control of companies:"/>
+        <text id="individual" need_translate="false" value="Purchased shares stake:"/>
+        <text id="local_lobbyist" need_translate="false" value="Lobby local laws:"/>
+        <text id="local_monopolist" need_translate="false" value="Market share in the state:"/>
+        <text id="master_of_secrets" need_translate="false" value="Got compromising evidence:"/>
+        <text id="plutocrat" need_translate="false" value="Wealth:"/>
+        <text id="political_heavyweight" need_translate="false" value="Lobby federal laws:"/>
+        <text id="regional_figure" need_translate="false" value="Influence level in the state:"/>
+        <text id="shadow_ruler" need_translate="false" value="Puppet ruler:"/>
+        <text id="themis_master" need_translate="false" value="Canceled judgments:"/>
+        <text id="us_monopolist" need_translate="false" value="Market share in the USA:"/>
+        <text id="walk_in_all_doors" need_translate="false" value="Puppet officials:"/>
+        <text id="world_monopolist" need_translate="false" value="Market share in the world:"/>
+    </progress_text>
+</player_achievements_description>

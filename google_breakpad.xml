@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<google_breakpad>
+    <crash_dialog>
+        <text id="add_client_email" need_translate="false" value="Allow Redwood to contact me about this post."/>
+        <text id="apologies" need_translate="false" value="We apologize\n\n"/>
+        <text id="close_game" need_translate="false" value="Quit Plutocracy"/>
+        <text id="comment" need_translate="false" value="Add a comment (comments are publicly available)"/>
+        <text id="error_desc" need_translate="false" value="An internal error occurred during the game Plutocracy, which caused a crash.\n"/>
+        <text id="info_about_send" need_translate="false" value="Your message will be sent before leaving"/>
+        <text id="send_error_msg" need_translate="false" value="To help us identify and fix this problem, you can send us an error message.\n\n\n"/>
+        <text id="send_to_redwood" need_translate="false" value="Report a fall in Redwood so they can fix it"/>
+        <text id="window_title" need_translate="false" value="Plutocracy Crash Reporter"/>
+    </crash_dialog>
+</google_breakpad>

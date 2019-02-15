@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game_random_events>
+    <game_event_types>
+        <text id="1_description" need_translate="false" value=""/>
+        <text id="1_title" need_translate="false" value="Charity event!"/>
+        <text id="2_description" need_translate="false" value="Now developing..."/>
+        <text id="2_title" need_translate="false" value="You are lucky!"/>
+        <text id="3_description" need_translate="false" value="Now developing..."/>
+        <text id="3_title" need_translate="false" value="Shit happens!"/>
+        <text id="4_description" need_translate="false" value="Now developing..."/>
+        <text id="4_title" need_translate="false" value="Political squabbles!"/>
+        <text id="5_description" need_translate="false" value="Now developing..."/>
+        <text id="5_title" need_translate="false" value="Robbery!"/>
+        <text id="6_description" need_translate="false" value="Now developing..."/>
+        <text id="6_title" need_translate="false" value="Delay!"/>
+        <text id="7_description" need_translate="true" value=""/>
+        <text id="7_title" need_translate="true" value=""/>
+    </game_event_types>
+    <game_events>
+        <text id="agree_button" need_translate="false" value="Agree"/>
+        <text id="cancel_button" need_translate="false" value="Refuse"/>
+        <text id="delay_at_way_text" need_translate="false" value="The accident occurred on the railway tracks during the trip. What are you going to do? Rent a vehicle or wait for the train repair?"/>
+        <text id="donate_button" need_translate="false" value="Donate"/>
+        <text id="donate_text_1" need_translate="false" value="The New Dawn Charitable Foundation accepts requests for donations. The donation sum is $ %1."/>
+        <text id="donate_text_2" need_translate="false" value="Children's Home Сosiness accepts gift donations to help provide the children with everyday resources. Please, don't go by! The donation sum is $ %1."/>
+        <text id="hire" need_translate="false" value="Rent"/>
+        <text id="hold_up_text" need_translate="false" value="When you were coming back home, you were attacked by robbers! What are your actions?"/>
+        <text id="horse_down_text" need_translate="false" value="When you were riding a horse, you fell down by chance! As a result, you got an ankle swelling! Now you should spend %1 day(s) to get over."/>
+        <text id="hot_coffee_text" need_translate="false" value="Damn! Last morning you were killing time by playing golf with your friends. At some point, you hurt your hand and now you should spend %1 day(s) to get over."/>
+        <text id="pay" need_translate="false" value="Pay"/>
+        <text id="politic_text" need_translate="true" value=""/>
+        <text id="relations" need_translate="false" value="%1 offered to cross up %3! If you agree, you will improve the relationship with %1 but there is a risk %2% of being exposed by %3. As a result, %3 will become your opponent.\nIf you refuse, %1 will become your opponent but your relationship with %3 and his friends is going to get better off"/>
+        <text id="skirmish" need_translate="false" value="Gunfight"/>
+        <text id="wait" need_translate="false" value="Wait"/>
+        <text id="win_money_text_1" need_translate="false" value="Last night you were playing poker and managed to win out. Your winning: $ %1."/>
+        <text id="win_money_text_2" need_translate="false" value="You decided to participate in the city lottery, and you succeeded in winning. Your winning: $ %1."/>
+        <text id="win_money_text_3" need_translate="false" value="Your love of the horserace bear fruit! You won out $ %1 in sweepstakes"/>
+        <text id="win_ok_button_1" need_translate="false" value="Take"/>
+        <text id="win_ok_button_2" need_translate="false" value="Cash in"/>
+        <text id="win_ok_button_3" need_translate="false" value="Get"/>
+    </game_events>
+</game_random_events>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<crimes>
+    <effects>
+        <text id="arrets_chance" need_translate="false" value="Arrest chance"/>
+        <text id="jail_time_text" need_translate="false" value="Term imprisonment"/>
+        <text id="jail_time_value" need_translate="false" value="%1 quarters"/>
+        <text id="money_penalty" need_translate="false" value="Penalty"/>
+        <text id="reputation_change" need_translate="false" value="Reputation penalty"/>
+    </effects>
+    <hints>
+        <text id="already_tried_to_corrupt" need_translate="false" value="You can bribe the official only once!"/>
+        <text id="low_loyality" need_translate="false" value="Low loyalty!"/>
+        <text id="no_assistants" need_translate="false" value="No hired assistants!"/>
+    </hints>
+    <popup>
+        <text id="arrest_result_header_1" need_translate="false" value="Scapegoat of\n&quot;%1&quot;: %2"/>
+        <text id="arrest_result_header_2" need_translate="false" value="You're under arrest!"/>
+        <text id="arrest_result_text_1" need_translate="false" value="I trusted you, and you betrayed me! Friendship is like money, easier made than kept..."/>
+        <text id="arrest_result_text_2" need_translate="false" value="%1Police chief %2 suspects you of committing the crime &quot;%3&quot;. You can try to give a bribe or go through all the trials of the justice system."/>
+        <text id="court_popup_1" need_translate="false" value="Corrupt judge"/>
+        <text id="court_popup_1_hover" need_translate="false" value="You have a %1% chance that the official will take a bribe (The bribe sum: $%2) and a %3% chance that he will close the case"/>
+        <text id="court_popup_2" need_translate="false" value="I don't care!"/>
+        <text id="court_popup_2_hover" need_translate="false" value="Trial: %1"/>
+        <text id="court_popup_header" need_translate="false" value="Trial begins!"/>
+        <text id="court_popup_text" need_translate="false" value="%1&quot;%3&quot; trial will be held on %2. %4 is being accused of committing the crime"/>
+        <text id="court_result_header" need_translate="false" value="You were convicted of the crime of\n&quot;%1&quot;!"/>
+        <text id="court_result_header_1" need_translate="false" value="The judge refused to help you"/>
+        <text id="court_result_header_2" need_translate="false" value="Unfortunately, the powers of the judge are restricted!"/>
+        <text id="court_result_header_3" need_translate="false" value="There was brought in a verdict of not guilty"/>
+        <text id="court_result_text" need_translate="false" value="%1%2 is sent to prison...Judge %3 has made a fair judgment!"/>
+        <text id="court_result_text_1" need_translate="false" value="What are you getting at? Are you trying to bribe me? It's a felony. Get out of here!...But you can leave the money..I need to feed my children"/>
+        <text id="court_result_text_2" need_translate="false" value="You know, it is not easy to close my eyes to a judgment now! So i cannot help you with that...Take care!"/>
+        <text id="court_result_text_3" need_translate="false" value="%2 is not guilty. A 0% chance of re-prosecution"/>
+        <text id="hide_evidence_popup_1" need_translate="false" value="Hide evidence"/>
+        <text id="hide_evidence_popup_1_hover" need_translate="false" value="You have a %1% chance that the official will take a bribe (The bribe sum: $%2) and a %3% chance that he will close the case"/>
+        <text id="hide_evidence_popup_2" need_translate="false" value="Scapegoat"/>
+        <text id="hide_evidence_popup_2_hover" need_translate="false" value="Select a scapegoat"/>
+        <text id="hide_evidence_popup_3" need_translate="false" value="I don't care"/>
+        <text id="hide_evidence_popup_3_hover" need_translate="false" value="You may be arrested on %1"/>
+        <text id="hide_evidence_popup_header" need_translate="false" value="Investigation of the case of\n&quot;%1&quot;"/>
+        <text id="hide_evidence_popup_text" need_translate="false" value="%1The police got a statement from %2. Police chief %3 started looking into..."/>
+        <text id="hide_evidence_result_header_1" need_translate="false" value="The police chief refused to help you"/>
+        <text id="hide_evidence_result_header_2" need_translate="false" value="Unfortunately, the powers of the police chief are restricted!"/>
+        <text id="hide_evidence_result_header_3" need_translate="false" value="The police chief succeeded in hiding the evidence!\nYou are lucky!"/>
+        <text id="hide_evidence_result_text_1" need_translate="false" value="What are you getting at? Are you trying to bribe me? It's a felony. Get out of here!...But you can leave the money..I need to feed my children"/>
+        <text id="hide_evidence_result_text_2" need_translate="false" value="You know, it is not easy to hide evidence now! So i cannot help you with that...Toughen up!"/>
+        <text id="hide_evidence_result_text_3" need_translate="false" value="I succeeded in hiding the evidence of the case of &quot;%1&quot;! A 0% chance of re-prosecution. But i'm not sure that you will be able to get away with it next time"/>
+        <text id="incriminate_a_case_popup_1" need_translate="false" value="Close case"/>
+        <text id="incriminate_a_case_popup_1_hover" need_translate="false" value="You have a %1% chance that the official will take a bribe (The bribe sum: $%2) and a %3% chance that he will close the case"/>
+        <text id="incriminate_a_case_popup_2" need_translate="false" value="I don't care"/>
+        <text id="incriminate_a_case_popup_2_hover" need_translate="false" value="Trial: %1"/>
+        <text id="incriminate_a_case_popup_header" need_translate="false" value="Brought a criminal case of\n&quot;%1&quot; against %2"/>
+        <text id="incriminate_a_case_popup_text" need_translate="false" value="%1Prosecutor %2 has brought a criminal case"/>
+        <text id="incriminate_a_case_result_header_1" need_translate="false" value="The prosecutor refused to help you"/>
+        <text id="incriminate_a_case_result_header_2" need_translate="false" value="Unfortunately, the powers of the prosecutor are restricted!"/>
+        <text id="incriminate_a_case_result_header_3" need_translate="false" value="Case closed"/>
+        <text id="incriminate_a_case_result_text_1" need_translate="false" value="What are you getting at? Are you trying to bribe me? It's a felony. Get out of here!...But you can leave the money..I need to feed my children"/>
+        <text id="incriminate_a_case_result_text_2" need_translate="false" value="You know, it is not easy to closed a case now! So i cannot help you with that...God bless you!"/>
+        <text id="incriminate_a_case_result_text_3" need_translate="false" value="I succeeded in closing the case of &quot;%1&quot;! A 0% chance of re-prosecution. It put me in jeopardy! I cannot promise you that i'll give you a hand next time!"/>
+        <text id="jail_popup_1" need_translate="false" value="Mercy"/>
+        <text id="jail_popup_1_hover" need_translate="false" value="You have a %1% chance that the official will take a bribe (The bribe sum: $%2) and a %3% chance that he will close the case"/>
+        <text id="jail_popup_2" need_translate="false" value="Do nothing"/>
+        <text id="jail_popup_2_hover" need_translate="false" value="The term imprisonment will be over: %1"/>
+        <text id="jail_popup_header" need_translate="false" value="The governor is your last chance!"/>
+        <text id="jail_popup_text" need_translate="false" value="%1You can sought a pardon from the governor. If you are lucky, %2 governor %3 will pardon you, and you will be exempted from punishment."/>
+        <text id="jail_result_header" need_translate="false" value="%1's term imprisonment is over!"/>
+        <text id="jail_result_header_1" need_translate="false" value="The governor has refused to help you"/>
+        <text id="jail_result_header_2" need_translate="false" value="%1 was acquitted!"/>
+        <text id="jail_result_text" need_translate="false" value="Finally, i'm free!"/>
+        <text id="jail_result_text_1" need_translate="false" value="What are you getting at? Are you trying to bribe me? It's a felony. Get out of here!...But you can leave the money..I need to feed my children"/>
+        <text id="jail_result_text_2" need_translate="false" value="%%3 governor %2 has pardoned %4 who committed the crime &quot;%5&quot;"/>
+        <text id="scapegoat_popup_header" need_translate="false" value="Choose assistant"/>
+        <text id="scapegoat_popup_text" need_translate="false" value="Choose a scapegoat who will be charged with your crimes"/>
+    </popup>
+</crimes>

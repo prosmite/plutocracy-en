@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<politicians>
+    <descriptions>
+        <text id="congressman" need_translate="false" value="The congressman increases your influence by 1"/>
+        <text id="governor" need_translate="false" value="The companies of all opponents in the state (where there is no the share of the player who lobbied the governor) start functioning the modifier &quot;Tax audit&quot;"/>
+        <text id="judge" need_translate="false" value="The judge cancels the decision of any law against a player in that state. The player is fined, politician is removed from office in case of lobbying of politicians and officials through a bribe"/>
+        <text id="marshal" need_translate="false" value="The marshal arranges obstacles for opponents of the player in that state where he is."/>
+        <text id="prosecutor" need_translate="true" value=""/>
+        <text id="senator" need_translate="false" value="The senator increases your influence by 5, as well as gives 1 vote when voiting in the Senate. You can initiate through him any law."/>
+        <text id="state_treasurer" need_translate="false" value="State Treasurer"/>
+        <text id="сhief_police" need_translate="true" value=""/>
+    </descriptions>
+    <role_names>
+        <text id="congressman" need_translate="false" value="Congressman"/>
+        <text id="governor" need_translate="false" value="Governor"/>
+        <text id="judge" need_translate="false" value="Judge"/>
+        <text id="marshal" need_translate="false" value="Marshal"/>
+        <text id="prosecutor" need_translate="true" value=""/>
+        <text id="senator" need_translate="false" value="Senator"/>
+        <text id="state_treasurer" need_translate="false" value="State treasurer"/>
+        <text id="сhief_police" need_translate="true" value=""/>
+    </role_names>
+</politicians>

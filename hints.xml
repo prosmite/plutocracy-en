@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hints>
+    <hint>
+        <text id="10_title" need_translate="false" value="Profitability"/>
+        <text id="10_value" need_translate="false" value="Expected return relative to assets value per quarter"/>
+        <text id="11_title" need_translate="false" value="Account balance"/>
+        <text id="11_value" need_translate="false" value="Total difference between income and expenses during an accounting period"/>
+        <text id="12_title" need_translate="true" value=""/>
+        <text id="12_value" need_translate="true" value=""/>
+        <text id="13_title" need_translate="true" value=""/>
+        <text id="13_value" need_translate="true" value=""/>
+        <text id="14_title" need_translate="true" value=""/>
+        <text id="14_value" need_translate="true" value=""/>
+        <text id="15_title" need_translate="true" value=""/>
+        <text id="15_value" need_translate="true" value=""/>
+        <text id="16_title" need_translate="true" value=""/>
+        <text id="16_value" need_translate="true" value=""/>
+        <text id="17_title" need_translate="true" value=""/>
+        <text id="17_value" need_translate="true" value=""/>
+        <text id="18_title" need_translate="true" value=""/>
+        <text id="18_value" need_translate="true" value=""/>
+        <text id="19_title" need_translate="true" value=""/>
+        <text id="19_value" need_translate="true" value=""/>
+        <text id="1_title" need_translate="true" value=""/>
+        <text id="1_value" need_translate="true" value=""/>
+        <text id="20_title" need_translate="true" value=""/>
+        <text id="20_value" need_translate="true" value=""/>
+        <text id="21_title" need_translate="true" value=""/>
+        <text id="21_value" need_translate="true" value=""/>
+        <text id="22_title" need_translate="true" value=""/>
+        <text id="22_value" need_translate="true" value=""/>
+        <text id="23_title" need_translate="true" value=""/>
+        <text id="23_value" need_translate="true" value=""/>
+        <text id="24_title" need_translate="true" value=""/>
+        <text id="24_value" need_translate="true" value=""/>
+        <text id="25_title" need_translate="true" value=""/>
+        <text id="25_value" need_translate="true" value=""/>
+        <text id="26_title" need_translate="true" value=""/>
+        <text id="26_value" need_translate="true" value=""/>
+        <text id="27_title" need_translate="true" value=""/>
+        <text id="27_value" need_translate="true" value=""/>
+        <text id="28_title" need_translate="true" value=""/>
+        <text id="28_value" need_translate="true" value=""/>
+        <text id="29_title" need_translate="true" value=""/>
+        <text id="29_value" need_translate="true" value=""/>
+        <text id="2_title" need_translate="false" value="Map"/>
+        <text id="2_value" need_translate="false" value="Movement between states"/>
+        <text id="30_title" need_translate="true" value=""/>
+        <text id="30_value" need_translate="true" value=""/>
+        <text id="31_title" need_translate="false" value="Reputation"/>
+        <text id="31_value" need_translate="false" value="If your reputation is better than your opponent's reputation, it will be much easier to make deals. However, you will get the reputation penalty -1 point"/>
+        <text id="32_title" need_translate="true" value=""/>
+        <text id="32_value" need_translate="true" value=""/>
+        <text id="33_title" need_translate="true" value=""/>
+        <text id="33_value" need_translate="true" value=""/>
+        <text id="34_title" need_translate="false" value="Map"/>
+        <text id="34_value" need_translate="false" value="Movement between states"/>
+        <text id="35_title" need_translate="true" value=""/>
+        <text id="35_value" need_translate="true" value=""/>
+        <text id="36_title" need_translate="true" value=""/>
+        <text id="36_value" need_translate="true" value=""/>
+        <text id="37_title" need_translate="true" value=""/>
+        <text id="37_value" need_translate="true" value=""/>
+        <text id="38_title" need_translate="true" value=""/>
+        <text id="38_value" need_translate="true" value=""/>
+        <text id="39_text" need_translate="false" value="The activity field of the company"/>
+        <text id="39_title" need_translate="false" value="Company type"/>
+        <text id="3_title" need_translate="false" value="State"/>
+        <text id="3_value" need_translate="false" value="Here you can see a list of companies based in the state"/>
+        <text id="40_text" need_translate="false" value="Buy 51% of the shares and take control of the company"/>
+        <text id="40_title" need_translate="false" value="Control"/>
+        <text id="41_text" need_translate="false" value="Appoint the best director in order to improve the company management"/>
+        <text id="41_title" need_translate="false" value="CEO"/>
+        <text id="42_text" need_translate="false" value="The state where you are"/>
+        <text id="42_title" need_translate="false" value="State"/>
+        <text id="43_text" need_translate="false" value="The Company's services"/>
+        <text id="43_title" need_translate="false" value="Industry"/>
+        <text id="44_text" need_translate="false" value="The number of workers"/>
+        <text id="44_title" need_translate="false" value="Company size"/>
+        <text id="45_text" need_translate="false" value="The company's profitability relative to its capitalization per quarter"/>
+        <text id="45_title" need_translate="false" value="Profitability"/>
+        <text id="46_text" need_translate="false" value="Present the company value relative to the market price of its shares"/>
+        <text id="46_title" need_translate="false" value="Market cap"/>
+        <text id="47_text" need_translate="false" value="The buying price of shares by a brokerage"/>
+        <text id="47_title" need_translate="false" value="Market price"/>
+        <text id="4_title" need_translate="false" value="Achievements and elite"/>
+        <text id="4_value" need_translate="false" value="Your achievements and leaderboard"/>
+        <text id="50_title" need_translate="false" value="Time left"/>
+        <text id="50_value" need_translate="false" value="The time on the clock dial is the number of attempts to make a deal"/>
+        <text id="5_title" need_translate="false" value="Authority "/>
+        <text id="5_value" need_translate="false" value="lobbying laws, sponsoring politicians or officials"/>
+        <text id="6_title" need_translate="false" value="News"/>
+        <text id="6_value" need_translate="false" value="The chronology of game events"/>
+        <text id="7_title" need_translate="false" value="Agents"/>
+        <text id="7_value" need_translate="false" value="Here you can see a list of influence agents"/>
+        <text id="8_title" need_translate="false" value="Wealth"/>
+        <text id="8_value" need_translate="false" value="Total assets value"/>
+        <text id="9_title" need_translate="false" value="Cash"/>
+        <text id="9_value" need_translate="false" value="Amount of cash per quarter"/>
+    </hint>
+</hints>

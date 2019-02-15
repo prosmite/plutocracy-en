@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+    <event>
+        <text id="1" need_translate="false" value="During the party one of the invited has drunk a lot of alcohol and starts insulting your friend's wife in public. What're your actions?"/>
+        <text id="10" need_translate="true" value="The guests have organized poker without your consent. What're your actions?"/>
+        <text id="10_header" need_translate="true" value="Disturbance"/>
+        <text id="11" need_translate="false" value="One of the politicians has suggested you to sponsor his election campaign. What're your actions?"/>
+        <text id="11_header" need_translate="false" value="Mutual help"/>
+        <text id="12" need_translate="false" value="An assassination attempt has been made on an influential guest. The criminal takes off at once. What're your actions?"/>
+        <text id="12_header" need_translate="false" value="Assassination attempt"/>
+        <text id="13" need_translate="true" value="One of the guests asked you to arrange a private meeting with one of the dancers. What're your actions?"/>
+        <text id="13_header" need_translate="true" value="Private meeting"/>
+        <text id="14" need_translate="false" value="During the fireworks show one of the guests has started having an epileptic seizure. What're your actions?"/>
+        <text id="14_header" need_translate="false" value="Epilepsy"/>
+        <text id="15" need_translate="false" value="An ambitious shareholder has decided to buy out your company's stake. What will you answer him?"/>
+        <text id="15_header" need_translate="false" value="Company's stake"/>
+        <text id="16" need_translate="false" value="Suddenly, someone has exclaimed, I'd like to see how you dance! To the suprise, he's supported by the public. What're your actions?"/>
+        <text id="16_header" need_translate="false" value="Dancer"/>
+        <text id="17" need_translate="false" value="The two drunken guests have laid into eachother. One of 'em takes out a revolver. What're your actions?"/>
+        <text id="17_header" need_translate="false" value="Difficult choice"/>
+        <text id="18" need_translate="false" value="What the fuck is the food?!,says the guest and gets up from behind the table with indignation. What're your actions?"/>
+        <text id="18_header" need_translate="false" value="Tasteless food"/>
+        <text id="19" need_translate="false" value="The singer has forgotten the lyrics during the performance. What're your actions?"/>
+        <text id="19_header" need_translate="false" value="Slipped from memory!"/>
+        <text id="1_header" need_translate="false" value="Insult"/>
+        <text id="2" need_translate="true" value="During your speech in front of the guests one of the invited feels bad for falling on an expensive vase and breaking it. What're your actions?"/>
+        <text id="20" need_translate="false" value="You've been invited to play a golf. What will you answer?"/>
+        <text id="20_header" need_translate="false" value="Golf"/>
+        <text id="2_header" need_translate="true" value="Expensive vase"/>
+        <text id="3" need_translate="false" value="One of invited has decided to play a trick on the waiter by tripping him. The waiter falls down spilling champagne on the ladies. What're your actions?"/>
+        <text id="3_header" need_translate="false" value="Bad joke"/>
+        <text id="4" need_translate="false" value="One of the musician's instruments has broken. Your guests begin to leave the rout. What're your actions?"/>
+        <text id="4_header" need_translate="false" value="Musical instrument"/>
+        <text id="5" need_translate="false" value="Suddenly, one of the guests has suggested to split the collected cash equally. What're your actions?"/>
+        <text id="5_header" need_translate="false" value="The guy is something else"/>
+        <text id="6" need_translate="true" value="One of the guests has asked you for a favor to arrange an evening in honor of his engagement to the governor's daughter. What're your actions?"/>
+        <text id="6_header" need_translate="false" value="Favor"/>
+        <text id="7" need_translate="false" value="It turned out that today one of the guests has a birthday. He'll be pleased to hear from you a public congratulation. What're your actions?"/>
+        <text id="7_header" need_translate="false" value="Birthday"/>
+        <text id="8" need_translate="false" value="The business local tycoon has suggested you to bet on horse race. What're your actions?"/>
+        <text id="8_header" need_translate="false" value="Bet"/>
+        <text id="9" need_translate="false" value="You've found out that a cop has got into the rout. What're your actions? "/>
+        <text id="9_header" need_translate="false" value="On the look-out"/>
+    </event>
+    <event_button>
+        <text id="button_text_10_1" need_translate="true" value="Join and start a chat"/>
+        <text id="button_text_10_2" need_translate="true" value="Stop it immediately! I can't stand to play poker"/>
+        <text id="button_text_10_3" need_translate="true" value="Let's go the bets up, ladies and gentlemen!"/>
+        <text id="button_text_11_1" need_translate="false" value="Accept the offer of the politician"/>
+        <text id="button_text_11_2" need_translate="false" value="I cannot give you the answer now. Discuss it later, okay?"/>
+        <text id="button_text_11_3" need_translate="false" value="Politics is a dirty business!"/>
+        <text id="button_text_12_1" need_translate="false" value="Don't worry! I'll use my connections to help you"/>
+        <text id="button_text_12_2" need_translate="false" value="I can perform a first aid! Call a doctor, please!"/>
+        <text id="button_text_12_3" need_translate="false" value="Well, i should get rid of the revolver and evidence"/>
+        <text id="button_text_13_1" need_translate="false" value="I think i can able to arrange it for you"/>
+        <text id="button_text_13_2" need_translate="false" value="No way! My home isn't a brothel. Now, i gotta go!"/>
+        <text id="button_text_13_3" need_translate="true" value="I'm gonna invite everyone out and join"/>
+        <text id="button_text_14_1" need_translate="false" value="Keep calm! I'll bring him into my house."/>
+        <text id="button_text_14_2" need_translate="false" value="Call a doctor and go to the hospital together"/>
+        <text id="button_text_14_3" need_translate="false" value="Ha ha...look at this. What's wrong with him?"/>
+        <text id="button_text_15_1" need_translate="false" value="Perhaps, i'll agree. let's set the date for the meeting."/>
+        <text id="button_text_15_2" need_translate="false" value="Business before pleasure,” as they say"/>
+        <text id="button_text_15_3" need_translate="false" value="Get lost! It's only my stake!"/>
+        <text id="button_text_16_1" need_translate="false" value="So, i should invite a lady to the waltz"/>
+        <text id="button_text_16_2" need_translate="false" value="Umm..Do you know a proverb about a bad workman?"/>
+        <text id="button_text_16_3" need_translate="false" value="Nooo..I was already dancing the cancan!"/>
+        <text id="button_text_17_1" need_translate="false" value="Don't do it! You don't want any issues with that, do you?"/>
+        <text id="button_text_17_2" need_translate="false" value="Take a bullet for the target!"/>
+        <text id="button_text_17_3" need_translate="false" value="I'm scared! I should get out of here immediately."/>
+        <text id="button_text_18_1" need_translate="false" value="I don't care about that!"/>
+        <text id="button_text_18_2" need_translate="false" value="I apologize for that! Please come back!"/>
+        <text id="button_text_18_3" need_translate="false" value="Waiter, change the dish immediately!"/>
+        <text id="button_text_19_1" need_translate="false" value="All right! I know the lyrics i'll help him"/>
+        <text id="button_text_19_2" need_translate="false" value="Oh, bummer! Let's see the fireworks in the garden, okay?"/>
+        <text id="button_text_19_3" need_translate="false" value="You've spoiled my evening! Get the fuck outta here!"/>
+        <text id="button_text_1_1" need_translate="false" value="Break his\her face"/>
+        <text id="button_text_1_2" need_translate="false" value="Call the scoundrel to meet face-to-face"/>
+        <text id="button_text_1_3" need_translate="false" value="You never liked that bitch!"/>
+        <text id="button_text_20_1" need_translate="false" value="I accept the challenge!"/>
+        <text id="button_text_20_2" need_translate="false" value="Well, i'll refuse. I'm an awful golfer"/>
+        <text id="button_text_20_3" need_translate="false" value="I won't give you a chance to win!"/>
+        <text id="button_text_2_1" need_translate="true" value="Perform basic first aid"/>
+        <text id="button_text_2_2" need_translate="true" value="C'mon...You gotta pay for it, i guess"/>
+        <text id="button_text_2_3" need_translate="true" value="Omg! It was my favorite vase, you stupid ass!"/>
+        <text id="button_text_3_1" need_translate="false" value="Tell off the awkward waiter"/>
+        <text id="button_text_3_2" need_translate="false" value="See the guests out to the ladies' room"/>
+        <text id="button_text_3_3" need_translate="false" value="That's all right. They got it coming!"/>
+        <text id="button_text_4_1" need_translate="false" value="Invite all the guests to the garden"/>
+        <text id="button_text_4_2" need_translate="false" value="Go to the center of the hall and dance the cancan"/>
+        <text id="button_text_4_3" need_translate="false" value="Good riddance, dumbasses!"/>
+        <text id="button_text_5_1" need_translate="false" value="I'm not interested!"/>
+        <text id="button_text_5_2" need_translate="false" value="Call him\her a thief in public"/>
+        <text id="button_text_5_3" need_translate="false" value="Agree and take away all the money"/>
+        <text id="button_text_6_1" need_translate="false" value="Agree. Useful relations are important..."/>
+        <text id="button_text_6_2" need_translate="false" value="Refuse. I'll try makin' a play for the bride"/>
+        <text id="button_text_6_3" need_translate="false" value="Ignore"/>
+        <text id="button_text_7_1" need_translate="false" value="Sure, my friend! I'll do it with great pleasure"/>
+        <text id="button_text_7_2" need_translate="false" value="Just tell him a joke"/>
+        <text id="button_text_7_3" need_translate="false" value="Give him dough and pat on the back"/>
+        <text id="button_text_8_1" need_translate="false" value="Why not? I'm in!"/>
+        <text id="button_text_8_2" need_translate="false" value="Y'know, i ain't wanna take a chance"/>
+        <text id="button_text_8_3" need_translate="false" value="Go for broke!"/>
+        <text id="button_text_9_1" need_translate="false" value="Get him\her drunk and find out the visit purpose"/>
+        <text id="button_text_9_2" need_translate="false" value="Oh, I'm glad to see you, my friend!"/>
+        <text id="button_text_9_3" need_translate="false" value="Umm..I should get out of here with my money!"/>
+    </event_button>
+    <event_result>
+        <text id="bad_luck" need_translate="false" value="Bad luck!"/>
+        <text id="good_luck" need_translate="false" value="It's a lucky break!"/>
+    </event_result>
+    <player_resource>
+        <text id="1" need_translate="false" value="Money (rout)"/>
+        <text id="2" need_translate="false" value="Influence"/>
+        <text id="3" need_translate="false" value="Reputation"/>
+        <text id="4" need_translate="false" value="Prestige"/>
+        <text id="5" need_translate="false" value="Loyalty"/>
+    </player_resource>
+    <rout_option>
+        <text id="1" need_translate="false" value="Musicians"/>
+        <text id="2" need_translate="false" value="Banquet"/>
+        <text id="3" need_translate="false" value="Cabaret dancers"/>
+        <text id="4" need_translate="false" value="Fireworks"/>
+        <text id="5" need_translate="false" value="Celebrity"/>
+    </rout_option>
+</events>

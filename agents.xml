@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<agents>
+    <agent_class>
+        <text id="class_1" need_translate="false" value="Goon"/>
+        <text id="class_2" need_translate="false" value="Courtesan"/>
+        <text id="class_3" need_translate="false" value="Detective"/>
+        <text id="class_4" need_translate="false" value="Journalist"/>
+        <text id="class_5" need_translate="false" value="Gangster"/>
+        <text id="class_6" need_translate="false" value="Hitman"/>
+        <text id="class_7" need_translate="false" value="Diplomat"/>
+        <text id="class_8" need_translate="false" value="Financier"/>
+        <text id="no_data" need_translate="false" value=""/>
+    </agent_class>
+    <agent_result>
+        <text id="1_1_1_female" need_translate="false" value="When you hang upside down, understanding comes very quickly, as quickly as falling from the 8th floor…"/>
+        <text id="1_1_1_male" need_translate="false" value="When you hang upside down, understanding comes very quickly as quickly as falling from the 8th floor…"/>
+        <text id="1_1_2_female" need_translate="false" value="After 're-education work', the client is all set to consider your offer"/>
+        <text id="1_1_2_male" need_translate="false" value="After 're-education work', the client is all set to consider your offer"/>
+        <text id="1_1_3_female" need_translate="false" value="He was trying to talk me back…Nevertheless, he’s gonna meet you halfway now!"/>
+        <text id="1_1_3_male" need_translate="false" value="He was trying to talk me back…Nevertheless, he’s gonna meet you halfway now!"/>
+        <text id="1_2_1_female" need_translate="false" value="Unfortunately, i didn’t succeed in catching her on the spot. Probably, she knew that i was gonna make a visit to her…now she is hiding from me"/>
+        <text id="1_2_1_male" need_translate="false" value="Unfortunately, i didn’t succeed in catching him on the spot. Probably, he knew that i was gonna make a visit to him…now he is hiding from me"/>
+        <text id="1_2_2_female" need_translate="false" value="I was not able to complete the mission. There were too many guards. Better luck next time…"/>
+        <text id="1_2_2_male" need_translate="false" value="I was not able to complete the mission. There were too many guards. Better luck next time…"/>
+        <text id="1_2_3_female" need_translate="false" value="Someone called the police…I was forced to go away! I should have been more careful"/>
+        <text id="1_2_3_male" need_translate="false" value="Someone called the police…I was forced to go away! I should have been more careful"/>
+        <text id="1_3_1_female" need_translate="false" value="Well, i went too far…she is in the hospital. Think, we got a problem - she is up to testify to the police!"/>
+        <text id="1_3_1_male" need_translate="false" value="Well, i went too far…he is in the hospital. Think, we got a problem - he is up to testify to the police!"/>
+        <text id="1_3_2_female" need_translate="false" value="I had no choice, I had my back to the wall…probably, this fucking secretary called the cops..Damn! It’s good that my brother works in the police. You should be prepared for unwanted visitors, just in case"/>
+        <text id="1_3_2_male" need_translate="false" value="I had no choice, I had my back to the wall…probably, this fucking secretary called the cops..Damn! It’s good that my brother works in the police. You should be prepared for unwanted visitors, just in case"/>
+        <text id="1_3_3_female" need_translate="false" value="I got carried away with clarifying a question….the neighbors suspected that something went wrong and called the police. I was forced to go away and i could leave a bunch of my fingerprints"/>
+        <text id="1_3_3_male" need_translate="false" value="I got carried away with clarifying a question….the neighbors suspected that something went wrong and called the police. I was forced to go away and i could leave a bunch of my fingerprints"/>
+        <text id="2_1_1_female" need_translate="false" value="As i expected everyone has their own secrets….I think this information will be enough to blackmail"/>
+        <text id="2_1_1_male" need_translate="false" value="As i expected everyone has their own secrets….I think this information will be enough to blackmail"/>
+        <text id="2_1_2_female" need_translate="false" value="It was soooo easy…she didn't even get that she told me everything i wanted…he-he-he"/>
+        <text id="2_1_2_male" need_translate="false" value="It was soooo easy…he didn't even get that he told me everything i wanted…he-he-he"/>
+        <text id="2_1_3_female" need_translate="false" value="At first she seemed to me unapproachable but sins exist to enjoy them, right? That’s what you wanted"/>
+        <text id="2_1_3_male" need_translate="false" value="At first he seemed to me unapproachable but sins exist to enjoy them, right? That’s what you wanted"/>
+        <text id="2_2_1_female" need_translate="false" value="Probably, she has problems with women!!! I could not even talk to her"/>
+        <text id="2_2_1_male" need_translate="false" value="Probably, he has problems with women!!! He is a rude, stupid fucker! I could not even talk to him"/>
+        <text id="2_2_2_female" need_translate="false" value="I did all my best but i didn't manage to get what you want"/>
+        <text id="2_2_2_male" need_translate="false" value="I did all my best but i didn't manage to get what you want"/>
+        <text id="2_2_3_female" need_translate="false" value="I have no good news for you…we were talking only about me…y’know, she’s a rather careful what she says"/>
+        <text id="2_2_3_male" need_translate="false" value="I have no good news for you…we were talking only about me…y’know, he’s a rather careful man what he says"/>
+        <text id="2_3_1_female" need_translate="false" value="Is my personality so well-know? I didn’t have time to start a conversation as she asked: “Who sent you?"/>
+        <text id="2_3_1_male" need_translate="false" value="Is my personality so well-know? I didn’t have time to start a conversation as he asked: “Who sent you?"/>
+        <text id="2_3_2_female" need_translate="false" value="Unfortunately, i was exposed…I think you’ll get problems"/>
+        <text id="2_3_2_male" need_translate="false" value="Unfortunately, i was exposed…I think you’ll get problems"/>
+        <text id="2_3_3_female" need_translate="false" value="Unfortunately, i was exposed…I think you’ll get problems"/>
+        <text id="2_3_3_male" need_translate="false" value="Unfortunately, i was exposed…I think you’ll get problems"/>
+        <text id="3_1_1_female" need_translate="false" value="It was not hard! My guys know their business"/>
+        <text id="3_1_1_male" need_translate="false" value="It was not hard! My guys know their business"/>
+        <text id="3_1_2_female" need_translate="false" value="I played my cards right…think this is what you want"/>
+        <text id="3_1_2_male" need_translate="false" value="I played my cards right…think this is what you want"/>
+        <text id="3_1_3_female" need_translate="false" value="That will be enough to be in deep shit!"/>
+        <text id="3_1_3_male" need_translate="false" value="That will be enough to be in deep shit!"/>
+        <text id="3_2_1_female" need_translate="false" value="I was not able to find anything useful for you. I think that’s all clean there"/>
+        <text id="3_2_1_male" need_translate="false" value="I was not able to find anything useful for you. I think that’s all clean there"/>
+        <text id="3_2_2_female" need_translate="false" value="Unfortunately, I didn't manage to dig up dirt on her. I’m gonna carry out my case next time"/>
+        <text id="3_2_2_male" need_translate="false" value="Unfortunately, I didn't manage to dig up dirt on him. I’m gonna carry out my case next time"/>
+        <text id="3_2_3_female" need_translate="false" value="The guy, who’s sent to look into that case, got lost! So i have nothing for you"/>
+        <text id="3_2_3_male" need_translate="false" value="The guy, who’s sent to look into that case, got lost! So i have nothing for you"/>
+        <text id="3_3_1_female" need_translate="false" value="I was forced to go beyond of the law in this case….unfortunately, it was in vain! Besides, i’ve got a bunch of complaints"/>
+        <text id="3_3_1_male" need_translate="false" value="I was forced to go beyond of the law in this case….unfortunately, it was in vain! Besides, i’ve got a bunch of complaints"/>
+        <text id="3_3_2_female" need_translate="false" value="He turned out to be a pretty Big Shot. Unfortunately, i was exposed…"/>
+        <text id="3_3_2_male" need_translate="false" value="He turned out to be a pretty Big Shot. Unfortunately, i was exposed…"/>
+        <text id="3_3_3_female" need_translate="false" value="She's being covered up by a prosecutor…I had to closed the case. I ain’t wanna rush things but i think there’s gonna be a counterstrike"/>
+        <text id="3_3_3_male" need_translate="false" value="He's being covered up by a prosecutor…I had to closed the case. I ain’t wanna rush things but i think there’s gonna be a counterstrike"/>
+        <text id="4_1_1_female" need_translate="false" value="It was great information! I managed to make quite a splash in that."/>
+        <text id="4_1_1_male" need_translate="false" value="It was great information! I managed to make quite a splash in that."/>
+        <text id="4_1_2_female" need_translate="false" value="It’ll be a success! We hit upon something interesting!"/>
+        <text id="4_1_2_male" need_translate="false" value="It’ll be a success! We hit upon something interesting!"/>
+        <text id="4_1_3_female" need_translate="false" value="It’s published on the front page of the newspaper!!! ‘The bomb’ is activated!"/>
+        <text id="4_1_3_male" need_translate="false" value="It’s published on the front page of the newspaper!!! ‘The bomb’ is activated!"/>
+        <text id="4_2_1_female" need_translate="false" value="The chief editor refused to publish my article because he didn’t find enough evidence"/>
+        <text id="4_2_1_male" need_translate="false" value="The chief editor refused to publish my article because he didn’t find enough evidence"/>
+        <text id="4_2_2_female" need_translate="false" value="There wasn’t enough information to create a stir around that"/>
+        <text id="4_2_2_male" need_translate="false" value="There wasn’t enough information to create a stir around that"/>
+        <text id="4_2_3_female" need_translate="false" value="Unfortunately, i ain’t wanna be in charge of this information. I may be in jeopardy!"/>
+        <text id="4_2_3_male" need_translate="false" value="Unfortunately, i ain’t wanna be in charge of this information. I may be in jeopardy!"/>
+        <text id="4_3_1_female" need_translate="false" value="The information was fake…now the police are about to start an investigation"/>
+        <text id="4_3_1_male" need_translate="false" value="The information was fake…now the police are about to start an investigation"/>
+        <text id="4_3_2_female" need_translate="false" value="The article was removed from publication because it’s not true…"/>
+        <text id="4_3_2_male" need_translate="false" value="The article was removed from publication because it’s not true…"/>
+        <text id="4_3_3_female" need_translate="false" value="A refutation from another journalist was published. I think you don’t need to wait for a positive result"/>
+        <text id="4_3_3_male" need_translate="false" value="A refutation from another journalist was published. I think you don’t need to wait for a positive result"/>
+        <text id="5_1_1_female" need_translate="false" value="Here’s your money! I thought i would shoot her!!! Can you imagine she was trying to hit me?!"/>
+        <text id="5_1_1_male" need_translate="false" value="Here’s your money! I thought i would shoot him!!! Can you imagine he was trying to hit me?!"/>
+        <text id="5_1_2_female" need_translate="false" value="She was about to shit his pants when she saw me! ha-ha-ha….It’s done!"/>
+        <text id="5_1_2_male" need_translate="false" value="He was about to shit his pants when he saw me! ha-ha-ha….It’s done!"/>
+        <text id="5_1_3_female" need_translate="false" value="She was about to shit his pants when she saw me! ha-ha-ha….It’s done!"/>
+        <text id="5_1_3_male" need_translate="false" value="He was about to shit his pants when he saw me! ha-ha-ha….It’s done!"/>
+        <text id="5_2_1_female" need_translate="false" value="Damn!…She managed to hide when we were chasing him. I’ll shoot in her knee next time"/>
+        <text id="5_2_1_male" need_translate="false" value="Son of a bitch…He managed to hide when we were chasing him. I’ll shoot in his knee next time"/>
+        <text id="5_2_2_female" need_translate="false" value="I have nothing to make you happy…It wasn't going to turn out the way i thought"/>
+        <text id="5_2_2_male" need_translate="false" value="I have nothing to make you happy…It wasn't going to turn out the way i thought"/>
+        <text id="5_2_3_female" need_translate="false" value="I think we got some problems….the police are on our way!"/>
+        <text id="5_2_3_male" need_translate="false" value="I think we got some problems….the police are on our way!"/>
+        <text id="5_3_1_female" need_translate="false" value="I got two news: 1. There was no money. 2. One of my guys dropped his gun there….so, there’s gonna be some questions soon…"/>
+        <text id="5_3_1_male" need_translate="false" value="I got two news: 1. There was no money. 2. One of my guys dropped his gun there….so, there’s gonna be some questions soon…"/>
+        <text id="5_3_2_female" need_translate="false" value="The information was fake! There was no money… and yeah…someone recognized me by sight! I think we should lie low…"/>
+        <text id="5_3_2_male" need_translate="false" value="The information was fake! There was no money… and yeah…someone recognized me by sight! I think we should lie low…"/>
+        <text id="5_3_3_female" need_translate="false" value="The information was fake! There was no money… and yeah…someone recognized me by sight! I think we should lie low…"/>
+        <text id="5_3_3_male" need_translate="false" value="The information was fake! There was no money… and yeah…someone recognized me by sight! I think we should lie low…"/>
+        <text id="6_1_1_female" need_translate="false" value="The job is done! No one will spot the marks at the crime scene! You can sleep in peace now."/>
+        <text id="6_1_1_male" need_translate="false" value="The job is done! No one will spot the marks at the crime scene! You can sleep in peace now"/>
+        <text id="6_1_2_female" need_translate="false" value="It’s done, m'am! It took much more time than i expected"/>
+        <text id="6_1_2_male" need_translate="false" value="It’s done, sir! It took much more time than i expected"/>
+        <text id="6_1_3_female" need_translate="false" value="I did my bit! They say if you wanna have fewer enemies, make friends with a hitman! is it true?"/>
+        <text id="6_1_3_male" need_translate="false" value="I did my bit! They say if you wanna have fewer enemies, make friends with a hitman! is it true?"/>
+        <text id="6_2_1_female" need_translate="false" value="Unfortunately, the target is still alive - something went wrong, and I was forced to hide. I'll be glad to try again"/>
+        <text id="6_2_1_male" need_translate="false" value="Unfortunately, the target is still alive - something went wrong, and I was forced to hide. I'll be glad to try again"/>
+        <text id="6_2_2_female" need_translate="false" value="The target had good guards…i was not able to complete the order"/>
+        <text id="6_2_2_male" need_translate="false" value="The target had good guards…i was not able to complete the order"/>
+        <text id="6_2_3_female" need_translate="false" value="There was a kid…My principles do not let me kill someone in front of kids. I need more time"/>
+        <text id="6_2_3_male" need_translate="false" value="There was a kid…My principles do not let me kill someone in front of kids. I need more time"/>
+        <text id="6_3_1_female" need_translate="false" value="I think someone found out about the coming murder…the victim was not there"/>
+        <text id="6_3_1_male" need_translate="false" value="I think someone found out about the coming murder…the victim was not there"/>
+        <text id="6_3_2_female" need_translate="false" value="There was turmoil …i was forced to leave my spot….one of the bystanders saw my face very well…the may be troubles now"/>
+        <text id="6_3_2_male" need_translate="false" value="There was turmoil …i was forced to leave my spot….one of the bystanders saw my face very well…the may be troubles now"/>
+        <text id="6_3_3_female" need_translate="false" value="The police cordoned off the building where i was….it’s good there is a basement there through which i managed to hide….i'm afraid that i could leave marks there"/>
+        <text id="6_3_3_male" need_translate="false" value="The police cordoned off the building where i was….it’s good there is a basement there through which i managed to hide….i'm afraid that i could leave marks there"/>
+        <text id="agent_failed" need_translate="false" value=""/>
+        <text id="agent_on_suspect" need_translate="false" value=""/>
+    </agent_result>
+    <agent_skill_abduction>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Kidnapping: +100% to chance"/>
+        <text id="negative_result" need_translate="false" value="Fail"/>
+        <text id="positive_result" need_translate="false" value="Success"/>
+        <text id="risk" need_translate="false" value="No negative effects"/>
+    </agent_skill_abduction>
+    <agent_skill_bandit_1>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Daylight robbery: 3% of cash"/>
+        <text id="negative_result" need_translate="false" value="Fail"/>
+        <text id="positive_result" need_translate="false" value="Success"/>
+        <text id="risk" need_translate="false" value="No effects"/>
+    </agent_skill_bandit_1>
+    <agent_skill_bandit_2>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Armed robbery: 10% of cash"/>
+        <text id="negative_result" need_translate="false" value="Fail"/>
+        <text id="positive_result" need_translate="false" value="Success"/>
+        <text id="risk" need_translate="false" value="No effects"/>
+    </agent_skill_bandit_2>
+    <agent_skill_bandit_3>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Planned robbery: 10% of cash"/>
+        <text id="negative_result" need_translate="false" value="Fail"/>
+        <text id="positive_result" need_translate="false" value="Success"/>
+        <text id="risk" need_translate="false" value="No effects"/>
+    </agent_skill_bandit_3>
+    <agent_skill_beating>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Beat: +70% to chance"/>
+        <text id="negative_result" need_translate="false" value="Fail"/>
+        <text id="positive_result" need_translate="false" value="Success"/>
+        <text id="risk" need_translate="false" value="No negative effects"/>
+    </agent_skill_beating>
+    <agent_skill_courtesan_1>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Seduce: +75% to loyalty"/>
+        <text id="negative_result" need_translate="false" value="Fail"/>
+        <text id="positive_result" need_translate="false" value="Success"/>
+        <text id="risk" need_translate="false" value="No effects"/>
+    </agent_skill_courtesan_1>
+    <agent_skill_courtesan_2>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Rout: +50% to loyalty"/>
+        <text id="negative_result" need_translate="false" value="Fail"/>
+        <text id="positive_result" need_translate="false" value="Success"/>
+        <text id="risk" need_translate="false" value="No effects"/>
+    </agent_skill_courtesan_2>
+    <agent_skill_courtesan_3>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Flirtation: +25% to loyalty"/>
+        <text id="negative_result" need_translate="false" value="Fail"/>
+        <text id="positive_result" need_translate="false" value="Success"/>
+        <text id="risk" need_translate="false" value="No effects"/>
+    </agent_skill_courtesan_3>
+    <agent_skill_detective_1>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Pursue"/>
+        <text id="negative_result" need_translate="false" value="Fail"/>
+        <text id="positive_result" need_translate="false" value="Success"/>
+        <text id="risk" need_translate="false" value="No effects"/>
+    </agent_skill_detective_1>
+    <agent_skill_detective_2>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Informers"/>
+        <text id="negative_result" need_translate="false" value="Fail"/>
+        <text id="positive_result" need_translate="false" value="Success"/>
+        <text id="risk" need_translate="false" value="No effects"/>
+    </agent_skill_detective_2>
+    <agent_skill_detective_3>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Watch"/>
+        <text id="negative_result" need_translate="false" value="Fail"/>
+        <text id="positive_result" need_translate="false" value="Success"/>
+        <text id="risk" need_translate="false" value="No effects"/>
+    </agent_skill_detective_3>
+    <agent_skill_journalist_1>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Slander: -50% target's reputation"/>
+        <text id="negative_result" need_translate="false" value="Fail"/>
+        <text id="positive_result" need_translate="false" value="Success"/>
+        <text id="risk" need_translate="false" value="No effects"/>
+    </agent_skill_journalist_1>
+    <agent_skill_journalist_2>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Publish dirt: -75% target's reputation"/>
+        <text id="negative_result" need_translate="false" value="Fail"/>
+        <text id="positive_result" need_translate="false" value="Success"/>
+        <text id="risk" need_translate="false" value="No effects"/>
+    </agent_skill_journalist_2>
+    <agent_skill_journalist_3>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Write article: -25% target's reputation"/>
+        <text id="negative_result" need_translate="false" value="Fail"/>
+        <text id="positive_result" need_translate="false" value="Success"/>
+        <text id="risk" need_translate="false" value="No effects"/>
+    </agent_skill_journalist_3>
+    <agent_skill_murder_gun>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Gun"/>
+        <text id="negative_result" need_translate="false" value="Fail"/>
+        <text id="positive_result" need_translate="false" value="Success"/>
+        <text id="risk" need_translate="false" value="No effects"/>
+    </agent_skill_murder_gun>
+    <agent_skill_murder_knife>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Knife"/>
+        <text id="negative_result" need_translate="false" value="Fail"/>
+        <text id="positive_result" need_translate="false" value="Success"/>
+        <text id="risk" need_translate="false" value="No effects"/>
+    </agent_skill_murder_knife>
+    <agent_skill_murder_poison>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Poison"/>
+        <text id="negative_result" need_translate="false" value="Fail"/>
+        <text id="positive_result" need_translate="false" value="Success"/>
+        <text id="risk" need_translate="false" value="No effects"/>
+    </agent_skill_murder_poison>
+    <agent_skill_threat>
+        <text id="description" need_translate="true" value=""/>
+        <text id="full_description" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Threat: +20% to chance"/>
+        <text id="negative_result" need_translate="false" value="Fail"/>
+        <text id="positive_result" need_translate="false" value="Success"/>
+        <text id="risk" need_translate="false" value="No negative effects"/>
+    </agent_skill_threat>
+    <agents_bandit>
+        <text id="description" need_translate="false" value="The creepy and slippery cowboy with a rich criminal background. Since childhood he has known only one law - ‘Rule of the gun’! Due to the rapid growth of capitalism, the incoherent legal systems required only three things from him: intelligence, determination and shooting ability. Having declared himself an outlaw, theft and robbery became his means for making money. If you need his services, be ready to pay him well."/>
+        <text id="effect" need_translate="false" value="In case of success, the agent will steal up to 10% of the cash"/>
+        <text id="name" need_translate="false" value="Jesse"/>
+        <text id="risk" need_translate="true" value=""/>
+        <text id="short_description" need_translate="false" value="%1 is robbed. You got $%2"/>
+        <text id="skill" need_translate="false" value="Robbery"/>
+        <text id="surname" need_translate="false" value="Hume"/>
+    </agents_bandit>
+    <agents_courtesan>
+        <text id="description" need_translate="false" value="Poly Adler is a mystery woman and a true seductress of men. Early in life, she realized that a rich and influential lover is a ticket to a happy life! Since then, she has lurked in the circles of high society, attempting to gather useful information on men. She listens in on private conversations that may contain dirt on married male characters."/>
+        <text id="effect" need_translate="false" value="In case of success, the agent will helps you manipulate a character (only men) by decreasing the required influence to meet with him. Also, the success is up to your influence on that character."/>
+        <text id="name" need_translate="false" value="Poly"/>
+        <text id="risk" need_translate="true" value=""/>
+        <text id="short_description" need_translate="false" value="%1 is hooked. Required influence to unlock is decreased"/>
+        <text id="skill" need_translate="false" value="Manipulation"/>
+        <text id="surname" need_translate="false" value="Adler"/>
+    </agents_courtesan>
+    <agents_detective>
+        <text id="description" need_translate="false" value="The brilliant detective, who knows the criminal world perfectly, is being a head of the investigation office that made up of former criminals. He's able to solve any puzzles affiliated with the dark past of a character as well as with financial fraud in a company. By having the opportunity to act beyond the law, he provides some guarantee for clients."/>
+        <text id="effect" need_translate="false" value="In case of success, you will be getting +100% permanently to the chance to make deals with a compromised character"/>
+        <text id="name" need_translate="false" value="Grant"/>
+        <text id="risk" need_translate="true" value=""/>
+        <text id="short_description" need_translate="false" value="%1 is compromised. +100% chance to deal"/>
+        <text id="skill" need_translate="false" value="Pursuit"/>
+        <text id="surname" need_translate="false" value="Hills"/>
+    </agents_detective>
+    <agents_diplomat>
+        <text id="description" need_translate="true" value=""/>
+        <text id="effect" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Mal"/>
+        <text id="risk" need_translate="true" value=""/>
+        <text id="short_description" need_translate="false" value="diplomat"/>
+        <text id="skill" need_translate="true" value=""/>
+        <text id="surname" need_translate="false" value="Goodman"/>
+    </agents_diplomat>
+    <agents_financier>
+        <text id="description" need_translate="true" value=""/>
+        <text id="effect" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Jacob"/>
+        <text id="risk" need_translate="true" value=""/>
+        <text id="short_description" need_translate="false" value="banker"/>
+        <text id="skill" need_translate="true" value=""/>
+        <text id="surname" need_translate="false" value="Morgan"/>
+    </agents_financier>
+    <agents_journalist>
+        <text id="description" need_translate="false" value="Harry is the author of many scandalous articles, works in “The New York Herald». He always conducts an aggressive investigation by exposing different financial fraud in a company. If there is the opportunity to dish the dirt on a famous politician or official, Harry is ready. If you need to remove someone from their position or you need to cut out a competitor, Harry Copper will be glad to help you!"/>
+        <text id="effect" need_translate="false" value="In case of success, a target's reputation will be ruined by 50% - 100%"/>
+        <text id="name" need_translate="false" value="Harry"/>
+        <text id="risk" need_translate="true" value=""/>
+        <text id="short_description" need_translate="false" value="%1's reputation is ruined by %2"/>
+        <text id="skill" need_translate="false" value="Slander"/>
+        <text id="surname" need_translate="false" value="Copper"/>
+    </agents_journalist>
+    <agents_killer>
+        <text id="description" need_translate="false" value="That’s rather hard to imagine a political or criminal life without this person. According to the latest data, known as Walter Hill. No one has ever managed to catch him off-guard! He has managed to achieve the greater heights in the criminal world due to ‘clean job’ eliminating both an entrepreneur and representatives of the political elite. Walter is one of the most dangerous characters because he is able to start hunting for you, and if he succeeds in achieving the goal, the game will be over!"/>
+        <text id="effect" need_translate="false" value="In case of success, a target will be eliminated"/>
+        <text id="name" need_translate="false" value="Walter"/>
+        <text id="risk" need_translate="true" value=""/>
+        <text id="short_description" need_translate="false" value="%1 is killed"/>
+        <text id="skill" need_translate="false" value="Murder"/>
+        <text id="surname" need_translate="false" value="Hill"/>
+    </agents_killer>
+    <agents_trasher>
+        <text id="description" need_translate="false" value="This big guy has huge muscles and a harsh look making you think very well before you say “NO”. All this gives him a great ability to see eye to eye with stubborn characters because the last thing he always hears is: “I believe we’ll be able to deal”. He is capable of sorting out your problem if you pay him very well, thereby increasing the chance to make a deal."/>
+        <text id="effect" need_translate="false" value="In case of success, you will get an extra bonus (once) to the chance to make a deal"/>
+        <text id="name" need_translate="false" value="Mika"/>
+        <text id="risk" need_translate="true" value=""/>
+        <text id="short_description" need_translate="false" value="%1 is intimidated. The deal chance is up!"/>
+        <text id="skill" need_translate="false" value="Extortion"/>
+        <text id="surname" need_translate="false" value="Pshishtov"/>
+    </agents_trasher>
+</agents>

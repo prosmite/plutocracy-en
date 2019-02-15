@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discussion_dialog>
+    <discussion_phrase>
+        <text id="100" need_translate="false" value="In the last few days i’ve heard a lot about you.  What’s the cause for our meeting?"/>
+        <text id="101" need_translate="false" value="I’m always glad to meet a good person. I’m ready to listen to you"/>
+        <text id="102" need_translate="false" value="I’m ready to listen to you. What’s the case for our meeting?"/>
+        <text id="1500" need_translate="false" value="No! I won’t be able to accept such terms!"/>
+        <text id="1501" need_translate="false" value="I don't see any benefit from your terms!"/>
+        <text id="1600" need_translate="false" value="Okay!  I’m ready to lend you $ %1 at %2% per quarter"/>
+        <text id="1601" need_translate="false" value="It’s nice doing business  with you! I agree! I’m gonna lend you $ %1 at %2% per quarter"/>
+        <text id="1602" need_translate="false" value="Well, i’m going to accept your terms and lend you $ %1 at %2% per quarter"/>
+        <text id="1700" need_translate="false" value="It’s so humiliating to keep negotiating with you!"/>
+        <text id="1701" need_translate="false" value="Are you kidding?? That’s price is too low! The negotiation is over!"/>
+        <text id="1702" need_translate="false" value="Are you sane? I never sell my shares for that price! You should think over your offer before the meeting!"/>
+        <text id="1703" need_translate="false" value="It’s outrageous to offer such terms! My attitude toward you is ruined!"/>
+        <text id="1800" need_translate="false" value="It's nice doing business with you"/>
+        <text id="1801" need_translate="false" value="I'll be glad to help you again!"/>
+        <text id="200" need_translate="false" value="What’s the case for our meeting? I don’t have much time"/>
+        <text id="201" need_translate="false" value="Who did you bother me? Hope, our conversation won’t take much time"/>
+        <text id="202" need_translate="false" value="I hope i’m not gonna waste time with you"/>
+        <text id="300" need_translate="false" value="I didn't want to meet you. So..i give you a favor. What do you want?"/>
+        <text id="301" need_translate="false" value="What do you want from me? We have no some mutual businesses"/>
+        <text id="302" need_translate="false" value="No problem! I'll be glad to help you again!"/>
+        <text id="400" need_translate="false" value="Hmm…I didn’t want to sell my shares. But if you pay $%1 per share (Total sum of $%2, %3 shares), i’m gonna consider your offer"/>
+        <text id="401" need_translate="false" value="I’m ready to sell my shares for $%1 per share (Total sum of $%2, %3 shares)"/>
+        <text id="402" need_translate="false" value="Frankly speaking, i’m not ready to sell my shares but for $%1 per share i’ll be able to meet you halfway (Total sum of $%2, %3 shares)"/>
+        <text id="500" need_translate="false" value="I’m not interested in that price…I’m all set to drop one to $%1 (Total sum of $%2, %3 shares)"/>
+        <text id="501" need_translate="false" value="No! No way!…We’ll be able to come to the agreement for $%1 per share (Total sum of $%2, %3 shares)"/>
+        <text id="502" need_translate="false" value="It’s too little! No way!. My offer is $%1 per share (Total sum of $%2, %3 shares)"/>
+        <text id="503" need_translate="false" value="Stop trying my patience…That’s overly little! My offer is $%1 per share (Total sum of $%2, %3 shares)"/>
+        <text id="504" need_translate="false" value="The price is too low! My offer is $%1 per share (Total sum of $%2, %3 shares) Deal?"/>
+        <text id="600" need_translate="false" value="Okay! I’m in! I’m ready to sell %1 shares of %2 company for $%3"/>
+        <text id="601" need_translate="false" value="It’s nice doing business with you, sir! I’m going to accept your terms and sell %1 shares of %2 company for $%3"/>
+        <text id="602" need_translate="false" value="Well, i’m going to accept your terms and sell %1 shares of %2 company for $%3"/>
+        <text id="700" need_translate="false" value="It’s so humiliating to keep negotiating with you!"/>
+        <text id="701" need_translate="false" value="Are you kidding?? That’s price is too low! The negotiation is over! "/>
+        <text id="702" need_translate="false" value="Are you sane? I never sell my shares for that price! You should think over your offer before the meeting!"/>
+        <text id="703" need_translate="false" value="It’s outrageous to offer such terms! My attitude towards you is ruined!"/>
+    </discussion_phrase>
+</discussion_dialog>
