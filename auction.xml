@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?> I'm at %BID bid!
 <auction>
     <common>
-        <text id="text_2" need_translate="false" value="Will you gimme %BID!"/>
+        <text id="text_2" need_translate="false" value=" I'm at %BID bid!"/>
         <text id="text_3" need_translate="false" value="now %BID, now %BID..."/>
-        <text id="text_start" need_translate="false" value="I'm at %BID bid!"/>
+        <text id="text_start" need_translate="false" value="Will you gimme %BID!"/>
         <text id="text_win" need_translate="false" value="and sold for %BID!"/>
     </common>
 </auction>
